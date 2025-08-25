@@ -1,0 +1,9 @@
+[
+  { "id": "chisomo", "name": "Chisomo Academy", "location": "Zalewa" },
+  { "id": "ngoms", "name": "Ngoms", "location": "Zalewa" },
+  { "id": "mepic", "name": "Mepic Schools", "location": "Balaka" },
+  { "id": "milpark", "name": "Milpark Private Secondary", "location": "Mwanza" },
+  { "id": "ekhaya", "name": "Ekhaya Academy", "location": "Zalewa" },
+  { "id": "soba", "name": "Soba", "location": "Machinjiri" },
+  { "id": "stance", "name": "Stance Secondary School", "location": "Machinjiri" }
+]
