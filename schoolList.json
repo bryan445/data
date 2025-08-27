@@ -1,10 +1,20 @@
-[
-  { "id": "chisomo", "name": "Chisomo Academy", "location": "Zalewa" },
-  { "id": "ngoms", "name": "Ngoms", "location": "Zalewa" },
-  { "id": "mepic", "name": "Mepic Schools", "location": "Balaka" },
-  { "id": "milpark", "name": "Milpark Private Secondary", "location": "Mwanza" },
-  { "id": "ekhaya", "name": "Ekhaya Academy", "location": "Zalewa" },
-  { "id": "lonjezo", "name": "Lonjezo Private Schools", "location": "Machinjiri, Blantyre" },
-  { "id": "stance", "name": "Stance Secondary School", "location": "Machinjiri" },
-  { "id": "wibra", "name": "Wibra Foundation", "location": "Zalewa" }
-]
+  [
+
+    { "id": "ngoms", "name": "Ngoms", "location": "Zalewa" },
+    { "id": "mepic", "name": "Mepic Schools", "location": "Balaka" },
+    { "id": "milpark", "name": "Milpark Private Secondary", "location": "Mwanza" },
+    { "id": "lonjezo", "name": "Lonjezo Private Schools", "location": "Machinjiri, Blantyre" },
+    { "id": "stance", "name": "Stance Secondary School", "location": "Machinjiri, Blantyre" },
+    { "id": "littleChamps", "name": "Little Champs Academy", "location": "Chirimba, Blantyre" },
+    { "id": "hillsPark", "name": "Hills Park Pvt Secondary", "location": "Mwanza" },
+    { "id": "greenHiils", "name": "Green Hiils Academy", "location": "Mwanza" },
+    { "id": "vision", "name": "Vision Pvt Secondary", "location": "Mwanza" },
+    { "id": "goodFoundation", "name": "Good Foundation Pvt Secondary", "location": "Mwanza" },
+    { "id": "youngMasters", "name": "Young Masters Academy", "location": "Ndilande Blantyre" },
+    { "id": "eduworld", "name": "Edu World Pvt Secondary", "location": "Zalewa" },
+    {"id": "ithabego", "name": "Ithabego Girls Academy", "location": "Liwonde" },
+    {"id": "newBeginning", "name": "New Beginning Pvt Secondary", "location": "Chirimba, Blantyre" },
+    {"id": "tioneTafika", "name": "Tione & Tafika Pvt Secondary",  "location": "Chirimba, Blantyre" },
+    {"id": "fortuneSeekers", "name": "Fortune Seekers Pvt Secondary", "location": "Chirimba, Blantyre" },
+    {"id": "emily", "name": "Emily Institute", "location": "Chirimba, Blantyre" }
+  ]
