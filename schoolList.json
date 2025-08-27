@@ -5,5 +5,6 @@
   { "id": "milpark", "name": "Milpark Private Secondary", "location": "Mwanza" },
   { "id": "ekhaya", "name": "Ekhaya Academy", "location": "Zalewa" },
   { "id": "lonjezo", "name": "Lonjezo Private Schools", "location": "Machinjiri, Blantyre" },
-  { "id": "stance", "name": "Stance Secondary School", "location": "Machinjiri" }
+  { "id": "stance", "name": "Stance Secondary School", "location": "Machinjiri" },
+  { "id": "wibra", "name": "Wibra Foundation", "location": "Zalewa" }
 ]
